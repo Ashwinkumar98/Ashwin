@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Main {
@@ -16,6 +17,6 @@ public class Main {
 		else {
 			jdhf = "dsklkfskhfskhfs";
 		}
-		List<String> s = new ArrayList<>();
+		List<String> ssdhdsu7 = new LinkedList<>();
 	}
 }
