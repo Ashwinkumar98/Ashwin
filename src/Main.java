@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 	public static void main(String[] args) {
@@ -8,8 +10,12 @@ public class Main {
 		if(x == 1) {
 			System.out.println("true");
 		}
-		else {
+		else if(x==2) {
 			System.out.println("Yes");
 		}
+		else {
+			jdhf = "dsklkfskhfskhfs";
+		}
+		List<String> s = new ArrayList<>();
 	}
 }
